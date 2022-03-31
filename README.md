@@ -9,7 +9,7 @@ For the script to know what AR11's to access, this script looks for a file calle
 
 To run the script, the user must provide user credentials, which have the relevant access to all the AR11’s.
 
-To this script was tested on python version 3.9, on linux and MACOS.
+This script was tested on python version 3.9, on linux and MACOS.
 
 Example to run the script
 	python3 Manage_ARs_RO.py -u username
